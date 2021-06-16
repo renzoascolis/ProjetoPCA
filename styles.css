@@ -208,3 +208,29 @@ footer {
   text-decoration: none;
   padding-left: 16px;
 }
+
+.sponsor-footer {
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #fff;
+}
+
+#patrocinadores {
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 10px 10px;
+  border-bottom: 1px solid #fff;
+}
+
+.videos {
+  width: 100%;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#videos {
+  text-align: center;
+}
